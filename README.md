@@ -77,6 +77,7 @@ msf auxiliary(client/iec104/iec104) > run
 msf auxiliary(client/iec104/iec104) >
 ```
 
+Example sending switching command
 IOA address to be switched is "5", the command type is a double command "46", command is for switching off without time value "5"
 Using local IEC 104 server simulator
 
