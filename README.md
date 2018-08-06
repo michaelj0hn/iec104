@@ -2,6 +2,8 @@
 IEC104 Client for Metasploit
 
 ## Install
+*Note:* The IEC104 client module has been merged into the [Metasploit](https://github.com/rapid7/metasploit-framework) repository. This step is not required if you are running on latest version of Metasploit from Git.
+
 Create a new folder for the IEC104 module, place script in new folder 
 
 ```
